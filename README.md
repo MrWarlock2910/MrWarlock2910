@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soham Bhattacharya</h1>
 <h3 align="center">An innovative and keen individual with a bent towards learning and developing skill sets.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif.">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrwarlock2910&label=Profile%20views&color=0e75b6&style=flat" alt="mrwarlock2910" /> </p>
 
